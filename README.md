@@ -1,4 +1,4 @@
-### Hi, I'm Sebastian Chesa 👋
+### 👋 Hi, I'm Sebastian Chesa.
 
 [![HitCount](http://hits.dwyl.com/schesa/schesa.svg)](http://hits.dwyl.com/schesa/schesa)
 
