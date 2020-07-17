@@ -2,7 +2,9 @@
 <!--
 [![HitCount](http://hits.dwyl.com/schesa/schesa.svg)](http://hits.dwyl.com/schesa/schesa)
 
-![Schesa's github stats](https://github-readme-stats.vercel.app/api?username=schesa&show_icons=true&hide_border=true)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=schesa&show_icons=true&hide_border=true) -->
+
+[![Schesa's github stats](https://github-readme-stats.vercel.app/api?username=schesa&show_icons=true&hide_border=false)](https://github.com/schesa)
 
 
 **schesa/schesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
