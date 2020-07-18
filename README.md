@@ -10,9 +10,9 @@
 
 |  👋 **Hi, I'm Sebastian Chesa.** | [![Schesa's github stats](https://github-readme-stats.vercel.app/api?username=schesa&show_icons=true&hide_border=true)](https://github.com/schesa) | 
 | ------------- | ------------- |
-![ViewCount](https://views.whatilearened.today/views/github/schesa/schesa.svg) 
 <!--| Content Cell  | Content Cell  |-->
 
+![ViewCount](https://views.whatilearened.today/views/github/schesa/schesa.svg) 
 
 
 
